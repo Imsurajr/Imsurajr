@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🪝 About Me:
 Sophomore at VIT Bhopal <br>Flutter Developer <br>C++
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/hacker-egghead-coding-lj7znezbwb0nuba4.html">
 
