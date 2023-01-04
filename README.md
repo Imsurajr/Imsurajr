@@ -1,6 +1,6 @@
 # 🪝 About Me:
 Sophomore at VIT Bhopal <br>Flutter Developer <br>C++
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/gif/hacker-egghead-coding-lj7znezbwb0nuba4.html](https://gifdb.com/gif/hacker-egghead-coding-lj7znezbwb0nuba4.html?embed=true)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Galactushere#9255) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-raghuvanshi-0b550821a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SurajItIs) 
