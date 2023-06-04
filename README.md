@@ -1,4 +1,3 @@
-# 🪝 About Me:
 Sophomore at VIT Bhopal <br>Flutter Developer <br>C++
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif">
 
