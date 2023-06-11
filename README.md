@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Suraj Raghuvanshi</h1>
 <h3 align="center">A Pre-final year student at VIT Bhopal | Flutter Developer</h3>
-
+<p align="center">
+<img src="https://gifdb.com/gif/computer-programming-html-coding-ygk3aq1mwnfu4360.html" height="240" width="370">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/surajitis" target="_blank">
@@ -19,8 +20,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/surajr45/" height="30" width="40" />
   </a>
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/5htrn2ceun341.gif?width=1000&format=mp4&v=enabled&s=5057c17bc8a5be12058d4574e571388bebb42b71">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/[your_image](https://preview.redd.it/5htrn2ceun341.gif?width=1000&format=mp4&v=enabled&s=5057c17bc8a5be12058d4574e571388bebb42b71).gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,11 +75,15 @@
 
 
 <hr>
+<h3 align="left">💡 Random  Quote:</h3>
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=FFDD00&hide_border=true&quote=The+best+error+message+is+the+one+that+never+shows+up!)
+
+<hr>
 <h3 align="left">💡 Leetcode Statistics:</h3>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=surajr45&theme=dark)
 
 <hr>
-
 
 ![](https://komarev.com/ghpvc/?username=imsurajr&color=red)
