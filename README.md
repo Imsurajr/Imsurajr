@@ -53,7 +53,7 @@
 📫 How to reach me: suraj.raghuvanshi2021@vitbhopal.ac.in
 
 <hr>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsurajr&theme=radical)
 <br>
@@ -62,8 +62,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imsurajr&theme=radical" alt="Most Commit Language" />
 </div>
 
+<hr>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imsurajr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=imsurajr&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 
 <hr>
@@ -71,7 +72,7 @@
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=surajr45&theme=dark)
 
-
+<hr>
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
