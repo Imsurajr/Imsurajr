@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Suraj Raghuvanshi</h1>
 <h3 align="center">A Pre-final year student at VIT Bhopal | Flutter Developer</h3>
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/surajitis" target="_blank">
@@ -43,6 +43,9 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -53,7 +56,7 @@
 📫 How to reach me: suraj.raghuvanshi2021@vitbhopal.ac.in
 
 <hr>
-## 📊 GitHub Stats:
+<h3 align="left">📊 GitHub Stats:</h3>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsurajr&theme=radical)
 <br>
@@ -63,17 +66,17 @@
 </div>
 
 <hr>
-## 🏆 GitHub Trophies
+<h3 align="left">🏆 GitHub Trophies:</h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=imsurajr&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 
 <hr>
-## 💡 Leetcode Statistics
+<h3 align="left">💡 Leetcode Statistics:</h3>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=surajr45&theme=dark)
 
 <hr>
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ![](https://komarev.com/ghpvc/?username=imsurajr&color=red)
