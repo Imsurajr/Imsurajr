@@ -78,16 +78,16 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=imsurajr&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
+<hr>
+<h3 align="left">💡 Leetcode Statistics:</h3>
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=surajr45&theme=dark)
+
 
 <hr>
 <h3 align="left">💡 Random  Quote:</h3>
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=FFDD00&hide_border=true&quote=The+best+error+message+is+the+one+that+never+shows+up!)
-
-<hr>
-<h3 align="left">💡 Leetcode Statistics:</h3>
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=surajr45&theme=dark)
 
 <hr>
 
