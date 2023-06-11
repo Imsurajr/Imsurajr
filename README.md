@@ -19,7 +19,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/surajr45/" height="30" width="40" />
   </a>
 </p>
-<hr>
+
+<img align="right" alt="Coding" width="400" src="https://preview.redd.it/5htrn2ceun341.gif?width=1000&format=mp4&v=enabled&s=5057c17bc8a5be12058d4574e571388bebb42b71">
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
