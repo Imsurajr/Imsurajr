@@ -81,7 +81,7 @@
 <hr>
 <h3 align="left">💡 Leetcode Statistics:</h3>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=surajr45&theme=dark)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=imsurajr&theme=dark)
 
 
 <hr>
