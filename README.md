@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Suraj Raghuvanshi</h1>
-<h3 align="center">A Pre-final year student at VIT Bhopal | Flutter Developer</h3>
+<h3 align="center">Pre-final year student at VIT Bhopal | Flutter Developer</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.webp" alt="Coding" height="240" width="370">
