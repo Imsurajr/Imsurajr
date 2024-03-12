@@ -56,9 +56,23 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  </a>  
+
+### Platforms I Target:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+  
 </p>
+
 <hr>
+
+
+#### How Much I have Coded Since I started
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Imsurajr/4b04fa1d-952f-45ab-9d07-ce16bc410915.png" /></a>
+
 👯 I’m looking to collaborate on Flutter Projects
 
 📫 How to reach me: suraj.raghuvanshi2021@vitbhopal.ac.in
