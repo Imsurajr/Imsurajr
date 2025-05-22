@@ -70,12 +70,9 @@
 <hr>
 
 
-#### How Much I have Coded Since I started
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Imsurajr/4b04fa1d-952f-45ab-9d07-ce16bc410915.png" /></a>
+👯 I’m looking to collaborate on C++, DevOps and Flutter Projects
 
-👯 I’m looking to collaborate on Flutter Projects
-
-📫 How to reach me: suraj.raghuvanshi2021@vitbhopal.ac.in
+📫 How to reach me: mailsurajraghuvanshihere@gmail.com
 
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
